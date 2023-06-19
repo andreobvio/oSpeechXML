@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trials>
+    <trial>
+        <name>Trial 01</name>
+        <pluggedNose>false</pluggedNose>
+        <challengeAmount>1</challengeAmount>
+        <randomizeTrial>false</randomizeTrial>
+        <phrases>
+            <text>Tip toe through the tulips</text>
+            <imagePath>null</imagePath>
+            <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Thad-took-a-bath.mp4</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Zip and zap the zipper</text>
+            <imagePath>null</imagePath>
+            <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Zip-and-zap-the-zipper.mp4</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+    </trial>
+    <trial>
+        <name>Trial 02</name>
+        <pluggedNose>true</pluggedNose>
+        <challengeAmount>1</challengeAmount>
+        <randomizeTrial>false</randomizeTrial>
+        <phrases>
+            <text>Pat the purple puppy</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/plugnose.png</imagePath>
+            <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Pat-the-purple-puppy.mp4</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+    </trial>
+</trials>
