@@ -7,19 +7,19 @@
         <randomizeTrial>false</randomizeTrial>
         <phrases>
             <text>Tip toe through the tulips</text>
-            <imagePath>null</imagePath>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/usa.png</imagePath>
             <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Thad-took-a-bath.mp4</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
             <text>Zip and zap the zipper</text>
-            <imagePath>null</imagePath>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/usa.png</imagePath>
             <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Zip-and-zap-the-zipper.mp4</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
             <text>Zip and zap the zipper</text>
-            <imagePath>null</imagePath>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/usa.png</imagePath>
             <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Zip-and-zap-the-zipper.mp4</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
