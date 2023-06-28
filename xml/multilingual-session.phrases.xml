@@ -6,19 +6,19 @@
         <challengeAmount>1</challengeAmount>
         <randomizeTrial>false</randomizeTrial>
         <phrases>
-            <text>English:\n Tip toe through the tulips</text>
+            <text>Tip toe through the tulips</text>
             <imagePath>null</imagePath>
             <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Thad-took-a-bath.mp4</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
-            <text>English:\n Zip and zap the zipper</text>
+            <text>Zip and zap the zipper</text>
             <imagePath>null</imagePath>
             <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Zip-and-zap-the-zipper.mp4</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
-            <text>English:\n Zip and zap the zipper</text>
+            <text>Zip and zap the zipper</text>
             <imagePath>null</imagePath>
             <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Zip-and-zap-the-zipper.mp4</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
@@ -30,25 +30,25 @@
         <challengeAmount>1</challengeAmount>
         <randomizeTrial>false</randomizeTrial>
         <phrases>
-            <text>Português:\n O rato roeu a roupa do rei de Roma</text>
+            <text>O rato roeu a roupa do rei de Roma</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/brasil.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
-            <text>Português:\n Três pratos de trigo para três tigres tristes</text>
+            <text>Três pratos de trigo para três tigres tristes</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/brasil.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
-            <text>Português:\n A aranha arranha a jarra.</text>
+            <text>A aranha arranha a jarra.</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/brasil.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
-            <text>Português:\n A vaca malhada foi molhada por outra vaca molhada.</text>
+            <text>A vaca malhada foi molhada por outra vaca molhada.</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/brasil.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
@@ -60,25 +60,25 @@
         <challengeAmount>1</challengeAmount>
         <randomizeTrial>false</randomizeTrial>
         <phrases>
-            <text>Italiano:\n Ciao a tutti</text>
+            <text>Ciao a tutti</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/italia.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
-            <text>Italiano:\n Buongiorno</text>
+            <text>Buongiorno</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/italia.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
-            <text>Italiano:\n Grazie mille</text>
+            <text>Grazie mille</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/italia.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
         </phrases>
         <phrases>
-            <text>Italiano:\n Mi chiamo Marco</text>
+            <text>Mi chiamo Marco</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/italia.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
@@ -90,7 +90,7 @@
         <challengeAmount>1</challengeAmount>
         <randomizeTrial>false</randomizeTrial>
         <phrases>
-            <text>Español:\n Hola, ¿cómo estás?</text>
+            <text>Hola, ¿cómo estás?</text>
             <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/espanha.png</imagePath>
             <videoPath>null</videoPath>
             <imageCompanionPath>null</imageCompanionPath>
