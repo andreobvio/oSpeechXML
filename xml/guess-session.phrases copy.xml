@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trials>
+    <trial>
+        <name>Trial 01</name>
+        <pluggedNose>false</pluggedNose>
+        <challengeAmount>1</challengeAmount>
+        <randomizeTrial>false</randomizeTrial>
+        <phrases>
+            <text>Tip toe through the tulips</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/usa.png</imagePath>
+            <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Thad-took-a-bath.mp4</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Zip and zap the zipper</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/usa.png</imagePath>
+            <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Zip-and-zap-the-zipper.mp4</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Zip and zap the zipper</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/usa.png</imagePath>
+            <videoPath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/videos/Zip-and-zap-the-zipper.mp4</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+    </trial>
+    <trial>
+        <name>Trial 02</name>
+        <pluggedNose>true</pluggedNose>
+        <challengeAmount>1</challengeAmount>
+        <randomizeTrial>false</randomizeTrial>
+        <phrases>
+            <text>O rato roeu a roupa do rei de Roma</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/brasil.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Três pratos de trigo para três tigres tristes</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/brasil.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>A aranha arranha a jarra.</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/brasil.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>A vaca malhada foi molhada por outra vaca molhada.</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/brasil.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+    </trial>
+    <trial>
+        <name>Trial 03</name>
+        <pluggedNose>false</pluggedNose>
+        <challengeAmount>1</challengeAmount>
+        <randomizeTrial>false</randomizeTrial>
+        <phrases>
+            <text>Ciao a tutti</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/italia.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Buongiorno</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/italia.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Grazie mille</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/italia.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Mi chiamo Marco</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/italia.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+    </trial>
+    <trial>
+        <name>Trial 04</name>
+        <pluggedNose>false</pluggedNose>
+        <challengeAmount>1</challengeAmount>
+        <randomizeTrial>false</randomizeTrial>
+        <phrases>
+            <text>Hola, ¿cómo estás?</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/espanha.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Español:\n ¿Qué tal el día de hoy?</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/espanha.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Español:\n Muchas gracias</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/espanha.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+        <phrases>
+            <text>Español:\n Me llamo María</text>
+            <imagePath>https://raw.githubusercontent.com/andreobvio/oSpeechXML/main/images/espanha.png</imagePath>
+            <videoPath>null</videoPath>
+            <imageCompanionPath>null</imageCompanionPath>
+        </phrases>
+    </trial>
+</trials>
